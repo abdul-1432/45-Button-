@@ -20,7 +20,6 @@ A collection of 45 modern button styles created using HTML, CSS, and SCSS. Inspi
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 
 ## Installation
@@ -30,7 +29,7 @@ To use these button styles in your project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/abdul-1432/45-Button-
    ```
 
 2. Navigate to the project directory:
@@ -41,7 +40,7 @@ To use these button styles in your project, follow these steps:
 
 3. Include the necessary CSS files in your HTML:
 
-   ```html
+   ```HTML
    <link rel="stylesheet" href="path/to/button-styles.css">
    ```
 
@@ -49,15 +48,9 @@ To use these button styles in your project, follow these steps:
 
 Once you've included the CSS files, you can easily use the button styles in your HTML:
 
-```html
+```HTML
 <button class="modern-button">Click me</button>
 ```
 
 Feel free to explore and customize the styles to fit your project's design.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Remember to replace placeholders like `your-username`, `your-repo-name`, `link-to-preview-image`, and others with your actual information. Also, include the appropriate paths to your CSS files and live demo.
