@@ -1,6 +1,3 @@
-Absolutely, I'd be happy to help you draft a GitHub Readme for your project. Here's a template to get you started:
-
-```markdown
 # 45 CSS Only Modern Button Styles
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo-name)
@@ -13,7 +10,14 @@ A collection of 45 modern button styles created using HTML, CSS, and SCSS. Inspi
 
 ## Preview
 
-![Button Styles Preview](link-to-preview-image.png)
+![1](https://github.com/abdul-1432/45-Button-/assets/124916666/31274cdd-c4ea-472e-b893-28c3822158cc)
+
+![2](https://github.com/abdul-1432/45-Button-/assets/124916666/123e93d1-94d3-4a32-a040-dab1e73fa67e)
+
+
+
+
+
 
 ## Table of Contents
 
