@@ -1,10 +1,5 @@
 # 45 CSS Only Modern Button Styles
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo-name)
-![GitHub issues](https://img.shields.io/github/issues/your-username/your-repo-name)
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo-name)
-![GitHub license](https://img.shields.io/github/license/your-username/your-repo-name)
 
 A collection of 45 modern button styles created using HTML, CSS, and SCSS. Inspired by designs from codepen.io.
 
@@ -14,21 +9,19 @@ A collection of 45 modern button styles created using HTML, CSS, and SCSS. Inspi
 
 ![2](https://github.com/abdul-1432/45-Button-/assets/124916666/123e93d1-94d3-4a32-a040-dab1e73fa67e)
 
+![3](https://github.com/abdul-1432/45-Button-/assets/124916666/103648bb-e7d3-446d-8333-28cdcd62cee0)
 
+![4](https://github.com/abdul-1432/45-Button-/assets/124916666/163eb1fc-b31e-4221-82a0-784ca71af586)
 
 
 
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 
-## Demo
-
-Check out the live demo [here](link-to-live-demo).
 
 ## Installation
 
